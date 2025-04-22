@@ -1,0 +1,39 @@
+# Labellum - Rose Madder Deep for Alacritty
+[colors.primary] 
+background = '#36262B' 
+foreground = '#BBBBBB'
+
+[colors.cursor]
+text = '#1E1E2E'
+cursor = '#BBBBBB'
+
+[colors.normal]
+black = '#181A1F'
+red = '#cc6e7c'
+green = '#b2bd8c'
+yellow = '#daa286'
+blue = '#84b0a7'
+magenta = '#c37f9e'
+cyan = '#b2bd8c'
+white = '#ABB2BF'
+
+[colors.bright]
+black = '#181A1F'
+red = '#cc6e7c'
+green = '#b2bd8c'
+yellow = '#daa286'
+blue = '#7BABBA'
+magenta = '#b27796'
+cyan = '#7BABBA'
+white = '#ABB2BF'
+
+[colors.dim]
+black = '#181A1F'
+red = '#cc6e7c'
+green = '#b2bd8c'
+yellow = '#daa286'
+blue = '#7BABBA'
+magenta = '#b27796'
+cyan = '#7BABBA'
+white = '#ABB2BF'
+
