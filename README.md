@@ -1,2 +1,2 @@
-# alacritty
-Labellum theme for Alacritty terminal
+# Labellum
+Labellum theme for the Alacritty terminal
