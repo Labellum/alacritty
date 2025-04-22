@@ -1,4 +1,11 @@
+#    _         _        _   _                    
+# \_|_)       | |      | | | |                   
+#   |     __, | |   _  | | | |         _  _  _   
+#  _|    /  | |/ \_|/  |/  |/  |   |  / |/ |/ |  
+# (/\___/\_/|_/\_/ |__/|__/|__/ \_/|_/  |  |  |_/
+                                               
 # Labellum - Rose Madder Deep for Alacritty
+
 [colors.primary] 
 background = '#36262B' 
 foreground = '#BBBBBB'
@@ -14,7 +21,7 @@ green = '#b2bd8c'
 yellow = '#daa286'
 blue = '#84b0a7'
 magenta = '#c37f9e'
-cyan = '#b2bd8c'
+cyan = '#98c1a1'
 white = '#ABB2BF'
 
 [colors.bright]
@@ -22,9 +29,9 @@ black = '#181A1F'
 red = '#cc6e7c'
 green = '#b2bd8c'
 yellow = '#daa286'
-blue = '#7BABBA'
-magenta = '#b27796'
-cyan = '#7BABBA'
+blue = '#84b0a7'
+magenta = '#c37f9e'
+cyan = '#98c1a1'
 white = '#ABB2BF'
 
 [colors.dim]
@@ -32,8 +39,8 @@ black = '#181A1F'
 red = '#cc6e7c'
 green = '#b2bd8c'
 yellow = '#daa286'
-blue = '#7BABBA'
-magenta = '#b27796'
-cyan = '#7BABBA'
+blue = '#84b0a7'
+magenta = '#c37f9e'
+cyan = '#98c1a1'
 white = '#ABB2BF'
 
