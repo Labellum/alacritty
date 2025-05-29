@@ -15,7 +15,7 @@ text = '#1E1E2E'
 cursor = '#BBBBBB'
 
 [colors.normal]
-black = '#303030'
+black = '#2E1D22'
 red = '#cc6e7c'
 green = '#b2bd8c'
 yellow = '#daa286'
@@ -25,7 +25,7 @@ cyan = '#98c1a1'
 white = '#ABB2BF'
 
 [colors.bright]
-black = '#303030'
+black = '#2E1D22'
 red = '#cc6e7c'
 green = '#b2bd8c'
 yellow = '#daa286'
@@ -35,7 +35,7 @@ cyan = '#98c1a1'
 white = '#ABB2BF'
 
 [colors.dim]
-black = '#303030'
+black = '#2E1D22'
 red = '#cc6e7c'
 green = '#b2bd8c'
 yellow = '#daa286'
